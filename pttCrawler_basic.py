@@ -16,6 +16,8 @@ def fetch(url):
 	
 	
 hello = "hello from inside"
+hello = "hello from "
+
 url = 'https://www.ptt.cc/bbs/movie/index.html'
 resp = fetch(url)  # step-1
 
